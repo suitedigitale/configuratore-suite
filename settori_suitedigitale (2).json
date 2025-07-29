@@ -1,0 +1,138 @@
+{
+  "B2B": {
+    "Consulenza aziendale": {
+      "cpl": 18,
+      "conversione": 12
+    },
+    "Software & SaaS": {
+      "cpl": 20,
+      "conversione": 10
+    },
+    "Formazione professionale": {
+      "cpl": 16,
+      "conversione": 14
+    },
+    "Finanza agevolata": {
+      "cpl": 22,
+      "conversione": 9
+    },
+    "Servizi legali per aziende": {
+      "cpl": 19,
+      "conversione": 11
+    },
+    "Servizi HR / Ricerca personale": {
+      "cpl": 17,
+      "conversione": 13
+    },
+    "Industria / Produzione": {
+      "cpl": 14,
+      "conversione": 15
+    },
+    "Servizi logistici": {
+      "cpl": 15,
+      "conversione": 14
+    },
+    "Studi tecnici / Ingegneria": {
+      "cpl": 16,
+      "conversione": 12
+    },
+    "Agenzie marketing B2B": {
+      "cpl": 18,
+      "conversione": 11
+    },
+    "Broker / Intermediazione": {
+      "cpl": 17,
+      "conversione": 12
+    },
+    "Facility Management": {
+      "cpl": 16,
+      "conversione": 13
+    },
+    "Servizi ambientali": {
+      "cpl": 15,
+      "conversione": 14
+    },
+    "Forniture industriali": {
+      "cpl": 19,
+      "conversione": 10
+    },
+    "Sistemi di sicurezza": {
+      "cpl": 18,
+      "conversione": 11
+    },
+    "Altro (B2B)": {
+      "cpl": 15,
+      "conversione": 10
+    }
+  },
+  "B2C": {
+    "Centri estetici": {
+      "cpl": 7,
+      "conversione": 25
+    },
+    "Fitness e personal trainer": {
+      "cpl": 8,
+      "conversione": 22
+    },
+    "Nutrizionisti": {
+      "cpl": 9,
+      "conversione": 20
+    },
+    "Scuole e asili privati": {
+      "cpl": 10,
+      "conversione": 18
+    },
+    "Immobiliare residenziale": {
+      "cpl": 11,
+      "conversione": 15
+    },
+    "Medici e poliambulatori": {
+      "cpl": 9,
+      "conversione": 21
+    },
+    "Psicologi e terapisti": {
+      "cpl": 8,
+      "conversione": 23
+    },
+    "Pet e animali domestici": {
+      "cpl": 7,
+      "conversione": 26
+    },
+    "Formazione e corsi personali": {
+      "cpl": 8,
+      "conversione": 22
+    },
+    "Ristoranti e food delivery": {
+      "cpl": 10,
+      "conversione": 18
+    },
+    "Parrucchieri / Barber shop": {
+      "cpl": 8,
+      "conversione": 24
+    },
+    "Moda / Abbigliamento": {
+      "cpl": 9,
+      "conversione": 17
+    },
+    "Gioiellerie / Articoli di lusso": {
+      "cpl": 12,
+      "conversione": 14
+    },
+    "Dentisti / Odontoiatri": {
+      "cpl": 10,
+      "conversione": 20
+    },
+    "Servizi per matrimoni": {
+      "cpl": 11,
+      "conversione": 18
+    },
+    "Turismo e travel design": {
+      "cpl": 10,
+      "conversione": 19
+    },
+    "Altro (B2C)": {
+      "cpl": 8,
+      "conversione": 20
+    }
+  }
+}
