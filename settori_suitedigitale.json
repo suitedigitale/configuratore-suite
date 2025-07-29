@@ -1,0 +1,86 @@
+[
+  {
+    "categoria": "Consulenza aziendale",
+    "macro": "B2B",
+    "costo_per_lead": 12,
+    "conversione_percentuale": 12
+  },
+  {
+    "categoria": "Studi legali",
+    "macro": "B2B",
+    "costo_per_lead": 14,
+    "conversione_percentuale": 10
+  },
+  {
+    "categoria": "Commercialisti e consulenti fiscali",
+    "macro": "B2B",
+    "costo_per_lead": 11,
+    "conversione_percentuale": 13
+  },
+  {
+    "categoria": "Software e SaaS",
+    "macro": "B2B",
+    "costo_per_lead": 10,
+    "conversione_percentuale": 9
+  },
+  {
+    "categoria": "Servizi HR e selezione",
+    "macro": "B2B",
+    "costo_per_lead": 13,
+    "conversione_percentuale": 11
+  },
+  {
+    "categoria": "Formazione professionale",
+    "macro": "B2B",
+    "costo_per_lead": 9,
+    "conversione_percentuale": 15
+  },
+  {
+    "categoria": "Estetica e benessere",
+    "macro": "B2C",
+    "costo_per_lead": 6,
+    "conversione_percentuale": 18
+  },
+  {
+    "categoria": "Fitness e palestre",
+    "macro": "B2C",
+    "costo_per_lead": 5,
+    "conversione_percentuale": 20
+  },
+  {
+    "categoria": "Infoprodotti e coaching",
+    "macro": "B2C",
+    "costo_per_lead": 8,
+    "conversione_percentuale": 10
+  },
+  {
+    "categoria": "Scuole e corsi per bambini",
+    "macro": "B2C",
+    "costo_per_lead": 7,
+    "conversione_percentuale": 14
+  },
+  {
+    "categoria": "Turismo e viaggi",
+    "macro": "B2C",
+    "costo_per_lead": 10,
+    "conversione_percentuale": 8
+  },
+  {
+    "categoria": "Vendita auto e concessionarie",
+    "macro": "B2C",
+    "costo_per_lead": 9,
+    "conversione_percentuale": 10
+  },
+  {
+    "categoria": "Altro B2B",
+    "macro": "B2B",
+    "costo_per_lead": 12,
+    "conversione_percentuale": 11
+  },
+  {
+    "categoria": "Altro B2C",
+    "macro": "B2C",
+    "costo_per_lead": 9,
+    "conversione_percentuale": 13
+  }
+]
