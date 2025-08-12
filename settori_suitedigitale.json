@@ -1,137 +1,137 @@
 {
   "B2B": {
-    "Consulenza aziendale": {
-      "cpl": 18,
+    "Altro (B2B - non trattiamo ecommerce)": {
+      "cpl": 45,
       "conversione": 12
     },
-    "Software & SaaS": {
-      "cpl": 20,
-      "conversione": 10
+    "Arredamento Ufficio": {
+      "cpl": 60,
+      "conversione": 11
     },
-    "Formazione professionale": {
-      "cpl": 16,
+    "Attrezzature Industriali": {
+      "cpl": 75,
       "conversione": 14
     },
-    "Finanza agevolata": {
-      "cpl": 22,
+    "Edilizia & Costruzioni (Materiali, Servizi Professionali)": {
+      "cpl": 70,
+      "conversione": 13
+    },
+    "Energia & Utility": {
+      "cpl": 70,
       "conversione": 9
     },
-    "Servizi legali per aziende": {
-      "cpl": 19,
+    "Finanza & Assicurazioni (Servizi aziendali)": {
+      "cpl": 90,
+      "conversione": 6
+    },
+    "Formazione Aziendale (Corsi, Workshop)": {
+      "cpl": 50,
+      "conversione": 14
+    },
+    "Immobiliare Commerciale (Compravendita, Affitto)": {
+      "cpl": 95,
+      "conversione": 5
+    },
+    "Logistica & Trasporti (Merci, Corriere Espresso)": {
+      "cpl": 65,
       "conversione": 11
     },
-    "Servizi HR / Ricerca personale": {
-      "cpl": 17,
-      "conversione": 13
-    },
-    "Industria / Produzione": {
-      "cpl": 14,
+    "Manifattura & Industria (Macchinari, Componenti)": {
+      "cpl": 60,
       "conversione": 15
     },
-    "Servizi logistici": {
-      "cpl": 15,
-      "conversione": 14
+    "Marketing & Comunicazione (Agenzie, Servizi SEO)": {
+      "cpl": 80,
+      "conversione": 7
     },
-    "Studi tecnici / Ingegneria": {
-      "cpl": 16,
-      "conversione": 12
+    "Medicina & Salute (Dispositivi, Servizi B2B)": {
+      "cpl": 85,
+      "conversione": 9
     },
-    "Agenzie marketing B2B": {
-      "cpl": 18,
-      "conversione": 11
-    },
-    "Broker / Intermediazione": {
-      "cpl": 17,
-      "conversione": 12
-    },
-    "Facility Management": {
-      "cpl": 16,
-      "conversione": 13
-    },
-    "Servizi ambientali": {
-      "cpl": 15,
-      "conversione": 14
-    },
-    "Forniture industriali": {
-      "cpl": 19,
+    "Risorse Umane (Recruiting, Formazione)": {
+      "cpl": 70,
       "conversione": 10
     },
-    "Sistemi di sicurezza": {
-      "cpl": 18,
-      "conversione": 11
-    },
-    "Altro (B2B)": {
-      "cpl": 15,
+    "Servizi di Consulenza (IT, HR, Finanziaria)": {
+      "cpl": 55,
       "conversione": 10
+    },
+    "Servizi di Pulizia e Manutenzione": {
+      "cpl": 40,
+      "conversione": 16
+    },
+    "Servizi Legali": {
+      "cpl": 85,
+      "conversione": 8
+    },
+    "Software & SaaS (Gestionali, CRM, Cybersecurity)": {
+      "cpl": 75,
+      "conversione": 8
     }
   },
   "B2C": {
-    "Centri estetici": {
-      "cpl": 7,
+    "Abbigliamento & Moda": {
+      "cpl": 15,
       "conversione": 25
     },
-    "Fitness e personal trainer": {
-      "cpl": 8,
-      "conversione": 22
-    },
-    "Nutrizionisti": {
-      "cpl": 9,
-      "conversione": 20
-    },
-    "Scuole e asili privati": {
-      "cpl": 10,
+    "Altro (B2C - non trattiamo ecommerce)": {
+      "cpl": 25,
       "conversione": 18
     },
-    "Immobiliare residenziale": {
-      "cpl": 11,
-      "conversione": 15
+    "Animali Domestici (Servizi, Prodotti)": {
+      "cpl": 13,
+      "conversione": 28
     },
-    "Medici e poliambulatori": {
-      "cpl": 9,
-      "conversione": 21
+    "Automotive (Concessionarie, Noleggio)": {
+      "cpl": 35,
+      "conversione": 13
     },
-    "Psicologi e terapisti": {
-      "cpl": 8,
-      "conversione": 23
+    "Benessere & Spa": {
+      "cpl": 12,
+      "conversione": 30
     },
-    "Pet e animali domestici": {
-      "cpl": 7,
+    "Elettronica di Consumo": {
+      "cpl": 22,
+      "conversione": 20
+    },
+    "Eventi & Intrattenimento": {
+      "cpl": 10,
+      "conversione": 35
+    },
+    "Hobby & Creatività": {
+      "cpl": 15,
       "conversione": 26
     },
-    "Formazione e corsi personali": {
-      "cpl": 8,
+    "Istruzione & Corsi (Online, Offline)": {
+      "cpl": 28,
+      "conversione": 16
+    },
+    "Ristoranti & Food Delivery": {
+      "cpl": 18,
       "conversione": 22
     },
-    "Ristoranti e food delivery": {
-      "cpl": 10,
-      "conversione": 18
-    },
-    "Parrucchieri / Barber shop": {
-      "cpl": 8,
+    "Salute & Bellezza (Centri estetici, Prodotti)": {
+      "cpl": 16,
       "conversione": 24
     },
-    "Moda / Abbigliamento": {
-      "cpl": 9,
-      "conversione": 17
+    "Servizi Finanziari (Mutui, Prestiti)": {
+      "cpl": 40,
+      "conversione": 10
     },
-    "Gioiellerie / Articoli di lusso": {
-      "cpl": 12,
-      "conversione": 14
+    "Servizi Immobiliari (Agenti, Noleggio)": {
+      "cpl": 38,
+      "conversione": 12
     },
-    "Dentisti / Odontoiatri": {
-      "cpl": 10,
-      "conversione": 20
+    "Servizi per la Casa (Idraulici, Elettricisti)": {
+      "cpl": 30,
+      "conversione": 15
     },
-    "Servizi per matrimoni": {
-      "cpl": 11,
-      "conversione": 18
+    "Sport & Fitness (Abbonamenti, Prodotti)": {
+      "cpl": 14,
+      "conversione": 28
     },
-    "Turismo e travel design": {
-      "cpl": 10,
-      "conversione": 19
-    },
-    "Altro (B2C)": {
-      "cpl": 8,
+    "Viaggi & Turismo": {
+      "cpl": 20,
       "conversione": 20
     }
   }
