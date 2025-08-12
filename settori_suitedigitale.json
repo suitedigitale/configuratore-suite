@@ -1,9 +1,5 @@
 {
   "B2B": {
-    "Altro (B2B - non trattiamo ecommerce)": {
-      "cpl": 45,
-      "conversione": 12
-    },
     "Arredamento Ufficio": {
       "cpl": 60,
       "conversione": 11
@@ -67,16 +63,16 @@
     "Software & SaaS (Gestionali, CRM, Cybersecurity)": {
       "cpl": 75,
       "conversione": 8
+    },
+    "Altro (B2B - non trattiamo ecommerce)": {
+      "cpl": 45,
+      "conversione": 12
     }
   },
   "B2C": {
     "Abbigliamento & Moda": {
       "cpl": 15,
       "conversione": 25
-    },
-    "Altro (B2C - non trattiamo ecommerce)": {
-      "cpl": 25,
-      "conversione": 18
     },
     "Animali Domestici (Servizi, Prodotti)": {
       "cpl": 13,
@@ -133,6 +129,10 @@
     "Viaggi & Turismo": {
       "cpl": 20,
       "conversione": 20
+    },
+    "Altro (B2C - non trattiamo ecommerce)": {
+      "cpl": 25,
+      "conversione": 18
     }
   }
 }
