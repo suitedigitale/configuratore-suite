@@ -2,137 +2,566 @@
   "B2B": {
     "Arredamento Ufficio": {
       "cpl": 20,
-      "conversione": 11
+      "conv_lead_app": 38,
+      "conv_app_cliente_base": 25,
+      "fasce_scontrino": {
+        "0": 25.0,
+        "1": 24.5,
+        "2": 24.0,
+        "3": 23.5,
+        "4": 23.0,
+        "5": 22.5,
+        "6": 22.0,
+        "7": 21.5,
+        "8": 21.0,
+        "9": 20.5
+      }
     },
     "Attrezzature Industriali": {
       "cpl": 30,
-      "conversione": 14
+      "conv_lead_app": 38,
+      "conv_app_cliente_base": 25,
+      "fasce_scontrino": {
+        "0": 25.0,
+        "1": 24.5,
+        "2": 24.0,
+        "3": 23.5,
+        "4": 23.0,
+        "5": 22.5,
+        "6": 22.0,
+        "7": 21.5,
+        "8": 21.0,
+        "9": 20.5
+      }
     },
     "Edilizia & Costruzioni (Materiali, Servizi Professionali)": {
       "cpl": 25,
-      "conversione": 13
+      "conv_lead_app": 38,
+      "conv_app_cliente_base": 25,
+      "fasce_scontrino": {
+        "0": 25.0,
+        "1": 24.5,
+        "2": 24.0,
+        "3": 23.5,
+        "4": 23.0,
+        "5": 22.5,
+        "6": 22.0,
+        "7": 21.5,
+        "8": 21.0,
+        "9": 20.5
+      }
     },
     "Energia & Utility": {
       "cpl": 25,
-      "conversione": 9
+      "conv_lead_app": 38,
+      "conv_app_cliente_base": 25,
+      "fasce_scontrino": {
+        "0": 25.0,
+        "1": 24.5,
+        "2": 24.0,
+        "3": 23.5,
+        "4": 23.0,
+        "5": 22.5,
+        "6": 22.0,
+        "7": 21.5,
+        "8": 21.0,
+        "9": 20.5
+      }
     },
     "Finanza & Assicurazioni (Servizi aziendali)": {
       "cpl": 40,
-      "conversione": 6
+      "conv_lead_app": 38,
+      "conv_app_cliente_base": 25,
+      "fasce_scontrino": {
+        "0": 25.0,
+        "1": 24.5,
+        "2": 24.0,
+        "3": 23.5,
+        "4": 23.0,
+        "5": 22.5,
+        "6": 22.0,
+        "7": 21.5,
+        "8": 21.0,
+        "9": 20.5
+      }
     },
     "Formazione Aziendale (Corsi, Workshop)": {
       "cpl": 25,
-      "conversione": 14
+      "conv_lead_app": 38,
+      "conv_app_cliente_base": 25,
+      "fasce_scontrino": {
+        "0": 25.0,
+        "1": 24.5,
+        "2": 24.0,
+        "3": 23.5,
+        "4": 23.0,
+        "5": 22.5,
+        "6": 22.0,
+        "7": 21.5,
+        "8": 21.0,
+        "9": 20.5
+      }
     },
     "Immobiliare Commerciale (Compravendita, Affitto)": {
       "cpl": 40,
-      "conversione": 5
+      "conv_lead_app": 38,
+      "conv_app_cliente_base": 25,
+      "fasce_scontrino": {
+        "0": 25.0,
+        "1": 24.5,
+        "2": 24.0,
+        "3": 23.5,
+        "4": 23.0,
+        "5": 22.5,
+        "6": 22.0,
+        "7": 21.5,
+        "8": 21.0,
+        "9": 20.5
+      }
     },
     "Logistica & Trasporti (Merci, Corriere Espresso)": {
       "cpl": 25,
-      "conversione": 11
+      "conv_lead_app": 38,
+      "conv_app_cliente_base": 25,
+      "fasce_scontrino": {
+        "0": 25.0,
+        "1": 24.5,
+        "2": 24.0,
+        "3": 23.5,
+        "4": 23.0,
+        "5": 22.5,
+        "6": 22.0,
+        "7": 21.5,
+        "8": 21.0,
+        "9": 20.5
+      }
     },
     "Manifattura & Industria (Macchinari, Componenti)": {
       "cpl": 25,
-      "conversione": 15
+      "conv_lead_app": 38,
+      "conv_app_cliente_base": 25,
+      "fasce_scontrino": {
+        "0": 25.0,
+        "1": 24.5,
+        "2": 24.0,
+        "3": 23.5,
+        "4": 23.0,
+        "5": 22.5,
+        "6": 22.0,
+        "7": 21.5,
+        "8": 21.0,
+        "9": 20.5
+      }
     },
     "Marketing & Comunicazione (Agenzie, Servizi SEO)": {
       "cpl": 30,
-      "conversione": 7
+      "conv_lead_app": 38,
+      "conv_app_cliente_base": 25,
+      "fasce_scontrino": {
+        "0": 25.0,
+        "1": 24.5,
+        "2": 24.0,
+        "3": 23.5,
+        "4": 23.0,
+        "5": 22.5,
+        "6": 22.0,
+        "7": 21.5,
+        "8": 21.0,
+        "9": 20.5
+      }
     },
     "Medicina & Salute (Dispositivi, Servizi B2B)": {
-      "cpl": 30,
-      "conversione": 9
+      "cpl": 25,
+      "conv_lead_app": 38,
+      "conv_app_cliente_base": 25,
+      "fasce_scontrino": {
+        "0": 25.0,
+        "1": 24.5,
+        "2": 24.0,
+        "3": 23.5,
+        "4": 23.0,
+        "5": 22.5,
+        "6": 22.0,
+        "7": 21.5,
+        "8": 21.0,
+        "9": 20.5
+      }
     },
     "Risorse Umane (Recruiting, Formazione)": {
       "cpl": 25,
-      "conversione": 10
+      "conv_lead_app": 38,
+      "conv_app_cliente_base": 25,
+      "fasce_scontrino": {
+        "0": 25.0,
+        "1": 24.5,
+        "2": 24.0,
+        "3": 23.5,
+        "4": 23.0,
+        "5": 22.5,
+        "6": 22.0,
+        "7": 21.5,
+        "8": 21.0,
+        "9": 20.5
+      }
     },
     "Servizi di Consulenza (IT, HR, Finanziaria)": {
       "cpl": 25,
-      "conversione": 10
+      "conv_lead_app": 38,
+      "conv_app_cliente_base": 25,
+      "fasce_scontrino": {
+        "0": 25.0,
+        "1": 24.5,
+        "2": 24.0,
+        "3": 23.5,
+        "4": 23.0,
+        "5": 22.5,
+        "6": 22.0,
+        "7": 21.5,
+        "8": 21.0,
+        "9": 20.5
+      }
     },
     "Servizi di Pulizia e Manutenzione": {
       "cpl": 20,
-      "conversione": 16
+      "conv_lead_app": 38,
+      "conv_app_cliente_base": 25,
+      "fasce_scontrino": {
+        "0": 25.0,
+        "1": 24.5,
+        "2": 24.0,
+        "3": 23.5,
+        "4": 23.0,
+        "5": 22.5,
+        "6": 22.0,
+        "7": 21.5,
+        "8": 21.0,
+        "9": 20.5
+      }
     },
     "Servizi Legali": {
       "cpl": 40,
-      "conversione": 8
+      "conv_lead_app": 38,
+      "conv_app_cliente_base": 25,
+      "fasce_scontrino": {
+        "0": 25.0,
+        "1": 24.5,
+        "2": 24.0,
+        "3": 23.5,
+        "4": 23.0,
+        "5": 22.5,
+        "6": 22.0,
+        "7": 21.5,
+        "8": 21.0,
+        "9": 20.5
+      }
     },
     "Software & SaaS (Gestionali, CRM, Cybersecurity)": {
       "cpl": 30,
-      "conversione": 8
+      "conv_lead_app": 38,
+      "conv_app_cliente_base": 25,
+      "fasce_scontrino": {
+        "0": 25.0,
+        "1": 24.5,
+        "2": 24.0,
+        "3": 23.5,
+        "4": 23.0,
+        "5": 22.5,
+        "6": 22.0,
+        "7": 21.5,
+        "8": 21.0,
+        "9": 20.5
+      }
     },
     "Altro (B2B - non trattiamo ecommerce)": {
       "cpl": 25,
-      "conversione": 12
+      "conv_lead_app": 38,
+      "conv_app_cliente_base": 25,
+      "fasce_scontrino": {
+        "0": 25.0,
+        "1": 24.5,
+        "2": 24.0,
+        "3": 23.5,
+        "4": 23.0,
+        "5": 22.5,
+        "6": 22.0,
+        "7": 21.5,
+        "8": 21.0,
+        "9": 20.5
+      }
     }
   },
   "B2C": {
     "Abbigliamento & Moda": {
       "cpl": 10,
-      "conversione": 25
+      "conv_lead_app": 28,
+      "conv_app_cliente_base": 30,
+      "fasce_scontrino": {
+        "0": 30.0,
+        "1": 29.4,
+        "2": 28.8,
+        "3": 28.2,
+        "4": 27.6,
+        "5": 27.0,
+        "6": 26.4,
+        "7": 25.8,
+        "8": 25.2,
+        "9": 24.6
+      }
     },
     "Animali Domestici (Servizi, Prodotti)": {
       "cpl": 10,
-      "conversione": 28
+      "conv_lead_app": 28,
+      "conv_app_cliente_base": 30,
+      "fasce_scontrino": {
+        "0": 30.0,
+        "1": 29.4,
+        "2": 28.8,
+        "3": 28.2,
+        "4": 27.6,
+        "5": 27.0,
+        "6": 26.4,
+        "7": 25.8,
+        "8": 25.2,
+        "9": 24.6
+      }
     },
     "Automotive (Concessionarie, Noleggio)": {
       "cpl": 14,
-      "conversione": 13
+      "conv_lead_app": 28,
+      "conv_app_cliente_base": 30,
+      "fasce_scontrino": {
+        "0": 30.0,
+        "1": 29.4,
+        "2": 28.8,
+        "3": 28.2,
+        "4": 27.6,
+        "5": 27.0,
+        "6": 26.4,
+        "7": 25.8,
+        "8": 25.2,
+        "9": 24.6
+      }
     },
     "Benessere & Spa": {
       "cpl": 6,
-      "conversione": 30
+      "conv_lead_app": 28,
+      "conv_app_cliente_base": 30,
+      "fasce_scontrino": {
+        "0": 30.0,
+        "1": 29.4,
+        "2": 28.8,
+        "3": 28.2,
+        "4": 27.6,
+        "5": 27.0,
+        "6": 26.4,
+        "7": 25.8,
+        "8": 25.2,
+        "9": 24.6
+      }
     },
     "Elettronica di Consumo": {
       "cpl": 14,
-      "conversione": 20
+      "conv_lead_app": 28,
+      "conv_app_cliente_base": 30,
+      "fasce_scontrino": {
+        "0": 30.0,
+        "1": 29.4,
+        "2": 28.8,
+        "3": 28.2,
+        "4": 27.6,
+        "5": 27.0,
+        "6": 26.4,
+        "7": 25.8,
+        "8": 25.2,
+        "9": 24.6
+      }
     },
     "Eventi & Intrattenimento": {
       "cpl": 6,
-      "conversione": 35
+      "conv_lead_app": 28,
+      "conv_app_cliente_base": 30,
+      "fasce_scontrino": {
+        "0": 30.0,
+        "1": 29.4,
+        "2": 28.8,
+        "3": 28.2,
+        "4": 27.6,
+        "5": 27.0,
+        "6": 26.4,
+        "7": 25.8,
+        "8": 25.2,
+        "9": 24.6
+      }
     },
     "Hobby & Creatività": {
       "cpl": 10,
-      "conversione": 26
+      "conv_lead_app": 28,
+      "conv_app_cliente_base": 30,
+      "fasce_scontrino": {
+        "0": 30.0,
+        "1": 29.4,
+        "2": 28.8,
+        "3": 28.2,
+        "4": 27.6,
+        "5": 27.0,
+        "6": 26.4,
+        "7": 25.8,
+        "8": 25.2,
+        "9": 24.6
+      }
     },
     "Istruzione & Corsi (Online, Offline)": {
       "cpl": 14,
-      "conversione": 16
+      "conv_lead_app": 28,
+      "conv_app_cliente_base": 30,
+      "fasce_scontrino": {
+        "0": 30.0,
+        "1": 29.4,
+        "2": 28.8,
+        "3": 28.2,
+        "4": 27.6,
+        "5": 27.0,
+        "6": 26.4,
+        "7": 25.8,
+        "8": 25.2,
+        "9": 24.6
+      }
     },
     "Ristoranti & Food Delivery": {
       "cpl": 10,
-      "conversione": 22
+      "conv_lead_app": 28,
+      "conv_app_cliente_base": 30,
+      "fasce_scontrino": {
+        "0": 30.0,
+        "1": 29.4,
+        "2": 28.8,
+        "3": 28.2,
+        "4": 27.6,
+        "5": 27.0,
+        "6": 26.4,
+        "7": 25.8,
+        "8": 25.2,
+        "9": 24.6
+      }
     },
     "Salute & Bellezza (Centri estetici, Prodotti)": {
       "cpl": 10,
-      "conversione": 24
+      "conv_lead_app": 28,
+      "conv_app_cliente_base": 30,
+      "fasce_scontrino": {
+        "0": 30.0,
+        "1": 29.4,
+        "2": 28.8,
+        "3": 28.2,
+        "4": 27.6,
+        "5": 27.0,
+        "6": 26.4,
+        "7": 25.8,
+        "8": 25.2,
+        "9": 24.6
+      }
     },
     "Servizi Finanziari (Mutui, Prestiti)": {
       "cpl": 20,
-      "conversione": 10
+      "conv_lead_app": 28,
+      "conv_app_cliente_base": 30,
+      "fasce_scontrino": {
+        "0": 30.0,
+        "1": 29.4,
+        "2": 28.8,
+        "3": 28.2,
+        "4": 27.6,
+        "5": 27.0,
+        "6": 26.4,
+        "7": 25.8,
+        "8": 25.2,
+        "9": 24.6
+      }
     },
     "Servizi Immobiliari (Agenti, Noleggio)": {
       "cpl": 20,
-      "conversione": 12
+      "conv_lead_app": 28,
+      "conv_app_cliente_base": 30,
+      "fasce_scontrino": {
+        "0": 30.0,
+        "1": 29.4,
+        "2": 28.8,
+        "3": 28.2,
+        "4": 27.6,
+        "5": 27.0,
+        "6": 26.4,
+        "7": 25.8,
+        "8": 25.2,
+        "9": 24.6
+      }
     },
     "Servizi per la Casa (Idraulici, Elettricisti)": {
-      "cpl": 14,
-      "conversione": 15
+      "cpl": 10,
+      "conv_lead_app": 28,
+      "conv_app_cliente_base": 30,
+      "fasce_scontrino": {
+        "0": 30.0,
+        "1": 29.4,
+        "2": 28.8,
+        "3": 28.2,
+        "4": 27.6,
+        "5": 27.0,
+        "6": 26.4,
+        "7": 25.8,
+        "8": 25.2,
+        "9": 24.6
+      }
     },
     "Sport & Fitness (Abbonamenti, Prodotti)": {
       "cpl": 6,
-      "conversione": 28
+      "conv_lead_app": 28,
+      "conv_app_cliente_base": 30,
+      "fasce_scontrino": {
+        "0": 30.0,
+        "1": 29.4,
+        "2": 28.8,
+        "3": 28.2,
+        "4": 27.6,
+        "5": 27.0,
+        "6": 26.4,
+        "7": 25.8,
+        "8": 25.2,
+        "9": 24.6
+      }
     },
     "Viaggi & Turismo": {
       "cpl": 10,
-      "conversione": 20
+      "conv_lead_app": 28,
+      "conv_app_cliente_base": 30,
+      "fasce_scontrino": {
+        "0": 30.0,
+        "1": 29.4,
+        "2": 28.8,
+        "3": 28.2,
+        "4": 27.6,
+        "5": 27.0,
+        "6": 26.4,
+        "7": 25.8,
+        "8": 25.2,
+        "9": 24.6
+      }
     },
     "Altro (B2C - non trattiamo ecommerce)": {
       "cpl": 10,
-      "conversione": 18
+      "conv_lead_app": 28,
+      "conv_app_cliente_base": 30,
+      "fasce_scontrino": {
+        "0": 30.0,
+        "1": 29.4,
+        "2": 28.8,
+        "3": 28.2,
+        "4": 27.6,
+        "5": 27.0,
+        "6": 26.4,
+        "7": 25.8,
+        "8": 25.2,
+        "9": 24.6
+      }
     }
   }
 }
